@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ForecastWeather</string>
+    <string name="perform_request">get report</string>
+    <string name="connect_error">Not connected!</string>
+    <string-array name="city_array">
+        <item>Moscow,RU</item>
+        <item>Sochi,RU</item>
+        <item>Vladivostok,RU</item>
+        <item>Chelyabinsk,RU</item>
+        <item>Novosibirsk,RU</item>
+    </string-array>
+    <string name="url">http://api.openweathermap.org/data/2.5/</string>
+    <string name="api_key">c3940e3e49fa4beec724254ac20ea0a7</string>
+    <string name="date_pattern">MM dd, yyyy hh:mma</string>
+</resources>

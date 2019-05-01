@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#8190A5</color>
+    <color name="colorAccent">#FF47525E</color>
+    <color name="headProfileColor">#FFD185</color>
+    <color name="textAuthColor">#8492A6</color>
+    <color name="textNameProfile">#47525E</color>
+    <color name="textMoneyProfile">#1F2D3D</color>
+    <color name="redTextColor">#F95F62</color>
+    <color name="greenTextColor">#77D353</color>
+    <color name="priceTextColor">#343F4B</color>
+</resources>

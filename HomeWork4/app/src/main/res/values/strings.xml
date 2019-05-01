@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Home work 4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="value">value</string>
+    <string name="parent">Parent:</string>
+    <string name="child">Child:</string>
+    <string name="add_node">Add Node</string>
+    <string name="node">Node</string>
+    <string name="no_ties">No ties</string>
+    <string name="success_added">Success added</string>
+
+    <string name="colorPrimary">#03A9F4</string>
+    <string name="colorPrimaryDark">#0288D1</string>
+    <string name="colorAccent">#8BC34A</string>
+    <string name="secondaryText">#757575</string>
+    <string name="colorPrimaryLight">#B3E5FC</string>
+    <string name="colorRed">#D32F2F</string>
+    <string name="colorYellow">#FBC02D</string>
+    <string name="colorBlue">#2196F3</string>
+
+</resources>

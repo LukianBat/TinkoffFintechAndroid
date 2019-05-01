@@ -1,0 +1,4 @@
+<com.memebattle.home_work2.presentation.ChipGroupContainerLayout android:layout_width="match_parent"
+    android:id="@+id/chipGroupContainer"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

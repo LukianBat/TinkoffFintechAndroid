@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Home_work2</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="dagger">Dagger 2</string>
+    <string name="moxy">Moxy</string>
+    <string name="mvvm">MVVM</string>
+    <string name="room">Room</string>
+    <string name="rx">Rx</string>
+    <string name="clean_architecture">Clean Architecture</string>
+    <string name="async_task">AsyncTask</string>
+    <string name="nav_graph">NavGraph</string>
+    <string name="xml">Xml</string>
+
+    <string name="colorPrimary">#3F51B5</string>
+    <string name="colorPrimaryDark">#303F9F</string>
+    <string name="colorAccent">#448AFF</string>
+    <string name="colorChipBackground">#e0e0e0</string>
+    <string name="colorMaterialGreen">#388e3c</string>
+    <string name="colorMaterialBlue">#1565c0</string>
+    <string name="colorMaterialRed">#d32f2f</string>
+    <string name="colorMaterialOrange">#e64a19</string>
+
+</resources>

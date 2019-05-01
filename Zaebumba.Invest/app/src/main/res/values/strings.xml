@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">StockMarket</string>
+
+    <string name="server_error">Внутренняя ошибка сревера</string>
+    <string name="success_trans">Транзакция завершена успешно</string>
+    <string name="error_trans">Ошибка транзакции</string>
+    <string name="noContent">Нет купленных акций</string>
+    <string name="key_refresh">refresh token</string>
+    <string name="type_buy">buy</string>
+    <string name="connect_error">Отсутствует интернет-соединение</string>
+    <string name="type_sell">sell</string>
+    <string name="sign_out">Выйти</string>
+    <string name="base_url">https://warm-citadel-97897.herokuapp.com</string>
+    <string name="key_access">access token</string>
+    <string name="token_error">error</string>
+    <string name="input_error">Одно или несколько полей содержат недопустимые значения</string>
+    <string name="signin_error">Пользователь не авторизован</string>
+    <string name="stock_error">Акция не найдена</string>
+    <string name="sell_text">Продать</string>
+    <string name="buy_text">Купить</string>
+    <string name="transactions_title">История транзакций</string>
+    <string name="acc_title">Аккаунт</string>
+    <string name="buyStocksActivityName">Акции</string>
+    <string name="input_text">Введите количество</string>
+    <string name="colorPrimary">#008577</string>
+    <string name="colorPrimaryDark">#8190A5</string>
+    <string name="colorAccent">#FF47525E</string>
+    <string name="headProfileColor">#FFD185</string>
+    <string name="textAuthColor">#8492A6</string>
+    <string name="textNameProfile">#47525E</string>
+    <string name="textMoneyProfile">#1F2D3D</string>
+    <string name="redTextColor">#F95F62</string>
+    <string name="greenTextColor">#77D353</string>
+    <string name="priceTextColor">#343F4B</string>
+    <string name="acc_text">Денег в кошельке:</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+</resources>

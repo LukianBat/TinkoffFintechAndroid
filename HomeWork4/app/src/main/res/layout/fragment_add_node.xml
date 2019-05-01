@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".feature.MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="@string/node"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_margin="16dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/valueEdtText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/value"
+            android:inputType="number"
+            android:singleLine="false" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="@string/parent"
+        android:textSize="18sp" />
+
+    <Spinner
+        android:id="@+id/spinnerParents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="@string/child"
+        android:textSize="18sp" />
+
+    <Spinner
+        android:id="@+id/spinnerChild"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp" />
+
+    <Button
+        android:id="@+id/addNodeButton"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_shape"
+        android:text="@string/add_node"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+</LinearLayout>
